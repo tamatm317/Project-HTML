@@ -1,0 +1,32 @@
+*{
+    font-style: italic;
+} /* tat ca cac the */
+p {
+    text-decoration: underline;;
+
+}
+.class-1{
+    color: red;
+}
+
+.class-2.class-3{
+    color: green;
+}
+.class-4.class-5{
+    color: violet;
+}
+.p.class-6{
+    color: blue;
+}
+.h3.h4{
+    color: brown;
+}
+.list li{
+    color: deepskyblue;
+}
+.list > li{
+    color : fuchsia;
+}
+.class-9 + p {
+    color: goldenrod;
+}
